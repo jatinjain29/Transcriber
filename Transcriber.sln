@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Transcriber", "Transcriber\Transcriber.pyproj", "{F96E6FB4-71D8-48CF-9AF7-FF7F14C32571}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F96E6FB4-71D8-48CF-9AF7-FF7F14C32571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F96E6FB4-71D8-48CF-9AF7-FF7F14C32571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {928D0D13-F7EA-4EC2-9D4E-09B91B14F799}
+	EndGlobalSection
+EndGlobal
